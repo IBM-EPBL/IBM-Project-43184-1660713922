@@ -3,11 +3,11 @@ Analytics for Hospitals' Health-Care Data
 
 Category:
  Team leader:
-    Sathish.s
+ Sathish.s
  Team members:
-    Karthikraja.s
-    Ranjith kumar.r
-    Mohamedjikiriya.r
+  Karthikraja.s
+  Ranjith kumar.r
+  Mohamedjikiriya.r
 PROJECT DESCRIPTION:
 
 Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
